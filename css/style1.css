@@ -1,0 +1,134 @@
+body {
+
+    font-family: 'Titillium Web', sans-serif;
+  
+}
+h1 {
+    font-size: 66px;
+    font-weight: 600 ;
+    line-height: 80px;
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+}
+h2 {
+
+    font-size: 40px;
+    margin-bottom: 30px;
+    font-family: 'Titillium Web', sans-serif ;
+}
+p {
+    font-size: 20px;
+    color: #999999;
+    line-height: 1.8;
+    margin-bottom: 0;
+    font-family: 'Titillium Web', sans-serif ;
+}
+.parr {
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 1.8;
+    margin-bottom: 0;
+    font-family: 'Titillium Web', sans-serif;
+}
+a:hover{
+    text-decoration: none ;
+
+}
+section {
+    padding: 20px 0;
+
+}
+.topmargind-lg {
+    margin-top: 15px;
+
+}.topmargind-lg {
+    margin-top: 30px;
+    
+}.topmargind-lg {
+    margin-top: 60px;
+    
+}
+.btn {
+    font-size: 14px;
+    padding: 15px 26px ;
+    min-width: 2px;
+    display: inline-block;
+
+}
+.btn-light {
+    background-color: #ffffff;
+    color: #1a1a1a;
+    border: 2px solid #ffffff;
+}
+.btn i {
+    font-size: 14px;
+    margin-left: 5px ;
+}
+.navbar {
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05);
+    min-height: 100px;
+    
+}
+
+.nav-item a:hover{
+display: block;
+padding: 15px 20px;
+color: #3d3d3d;
+}
+.nav-link {
+    color: #1a1a1a;
+    font-size: 20px;
+}
+.nav-link:hover {
+    color: #1a1a1a;
+}
+.logo-brand {
+    min-width: 100px;
+    max-width: 100px;
+    position: relative;
+}
+.navbar-toggler {
+    font-size: 40px;
+}
+.navbar-toggler:focus {
+    outline: none;
+}
+
+#hero {
+    
+    background-size: cover;
+    background-position: center;
+    padding-top: 90px;
+    min-height: 850px;
+    color: #ffffff;
+}
+
+#hero p {
+    color: #ffffff;
+
+}
+.content-center {
+    max-width: 800px;
+    margin: 0 auto 60px auto;
+    text-align: center;
+}
+.content-center1 {
+    max-width: 800px;
+    margin: 60px auto 60px auto;
+    text-align: center;
+    ;
+}
+
+
+
+
+@media (min-width: 768px) { }
+
+
+@media (min-width: 992px) { }
+
+
+@media (min-width: 1200px) {  }
+
+  
